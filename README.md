@@ -90,3 +90,23 @@ United States, United Kingdom, France, Germany, Japan are top producers with US 
     3. Mandarin
     4. Latin
     5. Portuguese
+### Recommendations
+    
+> Following are the Recommendations
+1. keep the duration around 152.10 minutes.
+2. Drama is a must spice.
+3. Release the movie during the end of the year
+4. Rope in Lee unkrich director if at all its gonna be (Animation,Adventure,Comedy) genres.
+5. You can still be on these actors if they are alive :
+    1. Charles Chaplin
+    2. Tom Hanks
+    3. Robert De Niro
+    4. Leonardo DiCaprio
+6. If box office is a concern  don't be too much worried about the ratings they have least to do with boxoffice collections.
+7. Just dont try to blend  too many genres into a movie there hasnt been a single movie with more than 3 genres together.
+8. There is possibility that a movie can be into top 250 even it being a single genre film, Take your chances.
+9. An english movie produced in US,UK and released in multiple languages has greater possibilty of topping the list.
+10. Spanish, French are two good potential sources of topping a list apart english.
+11. Arabic, Mandarin, Latin, Portuguese have good potential of making box office apart from english.
+12. Roping in more star actors ain't gonna get box office collections.
+
