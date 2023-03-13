@@ -8,6 +8,12 @@
 
 ## Workflow
 
+
+## ERD 
+
+[ERD of movies database](images/ERD_DIAGRAM.png)
+![ERD of movies database](images/ERD_DIAGRAM.png)
+
 ## Summary and recommendations
 ### Insights 
 #### 1. Summary
